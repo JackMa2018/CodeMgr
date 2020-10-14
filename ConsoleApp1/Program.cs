@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("主分支添加01");
+            Console.WriteLine("dev分支添加01");
             Console.WriteLine("Hello World!");
         }
     }
